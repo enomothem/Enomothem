@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## visitors
+## Visitors
 ![:name](https://count.getloli.com/get/@awake1t)
 
 ## About

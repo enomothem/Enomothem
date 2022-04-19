@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-## Visitors
-![:name](https://count.getloli.com/get/@awake1t)
-
 ## About
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">

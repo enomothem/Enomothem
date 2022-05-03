@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Enomothem&center=true&size=27">
+  </a>
+</h1>
+
 ## About
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">

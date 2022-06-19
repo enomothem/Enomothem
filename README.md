@@ -32,7 +32,8 @@ Blog: <a>https://enomothem.com</a><br>
  
 #2022
 =>6
-18 python.B 
+18 python.2 
+19 python.?
 
 
 -->

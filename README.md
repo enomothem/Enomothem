@@ -34,6 +34,7 @@ Blog: <a>https://enomothem.com</a><br>
 =>6
 18 python.2 
 19 python.1
+20 python.function.1
 
 
 -->

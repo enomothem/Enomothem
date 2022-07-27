@@ -75,8 +75,8 @@ Blog: <a>https://enomothem.com</a><br>
 23 0
 24 0
 25 1
-26 1
-27 1
+26 1 rust
+27 1 rust
 
 
 -->

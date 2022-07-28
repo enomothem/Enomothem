@@ -12,7 +12,7 @@
 
 <!--  https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png -->
 - 🔭 I’m currently working on study information security.
-- 🌱 I’m currently learning english and blog.
+- 🌱 I’m currently learning english and blog.1
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for help with eonian sharp.
 - 💬 Ask me about enomothem@outlook.com

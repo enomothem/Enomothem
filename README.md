@@ -104,6 +104,6 @@ Blog: <a>https://enomothem.com</a><br>
 21 rust 1
 22 rust 1
 23 rust 1
-24 
+24 rust 1
 
 -->

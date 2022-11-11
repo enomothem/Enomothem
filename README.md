@@ -12,12 +12,12 @@
 
 <!--  https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png -->
 - 🔭 I’m currently working on study information security.
-- 🌱 I’m currently learning english and blog.
+- 🌱 I’m currently learning rust.
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for help with eonian sharp.
 - 💬 Ask me about enomothem@outlook.com
 - 📫 How to reach me: China.
-- 😄 Pronouns: Yeah! Okay. "宇众不同"
+- 😄 Pronouns: Yeah! Okay
 - ⚡ Fun fact: calligraphy.
 
 ## Contact
@@ -114,7 +114,3 @@ Blog: <a>https://enomothem.com</a><br>
 31 rust 1
 -->
 
-1 逻辑漏洞
-2
-3
-4

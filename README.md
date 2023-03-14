@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);println!(%22Enomothem%22);人生天地间,若白驹之过隙,忽然而已&center=true&size=42">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);println!(%22Enomothem%22);人生天地间,若白驹之过隙,忽然而已&center=true&size=24">
   </a>
 </h1>
 

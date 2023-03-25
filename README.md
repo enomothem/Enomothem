@@ -18,7 +18,10 @@
 <!--  https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png -->
 - 🔭 I’m currently working on study information security.
 - 🌱 I’m currently learning rust language.
-
+-
+-
+-
+-
 - 💬 sql injection is my specialty
 
 

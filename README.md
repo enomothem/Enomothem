@@ -17,13 +17,10 @@
 
 <!--  https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png -->
 - 🔭 I’m currently working on study information security.
-- 🌱 I’m currently learning rust.
-- 👯 I’m looking to collaborate on opensource project
-- 🤔 I’m looking for help with eonian sharp.
-- 💬 Ask me about enomothem@outlook.com
-- 📫 How to reach me: China.
-- 😄 Pronouns: Yeah! Okay
-- ⚡ Fun fact: calligraphy.
+- 🌱 I’m currently learning rust language.
+
+- 💬 sql injection is my specialty
+
 
 ## 
 ## 

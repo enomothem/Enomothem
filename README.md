@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+<img src="https://profile-counter.glitch.me/xxxx/count.svg" alt="" />
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=日月忽其不淹兮,春与秋其代序;人生天地间,若白驹之过隙,忽然而已&center=true&size=24">
